@@ -120,7 +120,7 @@ export default function AboutPage() {
           </CardHeader>
           <CardContent>
             <p className="text-gray-300 mb-4">
-              WebsiteMistri started as a passion project by Harshit Masiwal — a full-stack developer and AI enthusiast from ABES Engineering College. Tired of long dev cycles, he wanted to automate and accelerate website building.
+              WebsiteMistri started as a passion project by Abhinav Singh — a full-stack developer and AI enthusiast from Indian Institute of Information Technology. Tired of long dev cycles, he wanted to automate and accelerate website building.
             </p>
             <p className="text-gray-300 mb-4">
               Using cutting-edge AI like Gemini and LLMs, WebsiteMistri helps convert prompts into responsive websites instantly.
@@ -141,13 +141,13 @@ export default function AboutPage() {
                 className="w-16 h-16 rounded-full object-cover"
               />
               <div>
-                <CardTitle className="text-white text-xl font-bold">Harshit Masiwal</CardTitle>
+                <CardTitle className="text-white text-xl font-bold">Abhinav Singh</CardTitle>
                 <CardDescription className="text-blue-400">Love Coder Army 💗 </CardDescription>
               </div>
             </CardHeader>
             <CardContent>
               <p className="text-gray-300">
-                Hi! I'm Harshit, a passionate developer from ABES Engineering College. WebsiteMistri is my brainchild —
+                Hi! I'm Harshit, a passionate developer from IIIT Manipur. WebsiteMistri is my brainchild —
                 blending AI with intuitive design to help everyone launch beautiful websites faster.
               </p>
             </CardContent>
@@ -186,10 +186,10 @@ export default function AboutPage() {
 
         {/* Social Links */}
         <div className="flex justify-center space-x-4 text-white mb-10">
-          <a href="mailto:hmasiwal15@gmail.com" className="hover:text-blue-400">📧</a>
-          <a href="https://linkedin.com/in/harshit-masiwal" target="_blank" className="hover:text-blue-500">🔗</a>
-          <a href="https://github.com/harshitmasiwal" target="_blank" className="hover:text-gray-300">🐙</a>
-          <a href="https://x.com/harshit_masiwal" target="_blank" className="hover:text-blue-300">🐦</a>
+          <a href="mailto:abhi17may2004@gmail.com" className="hover:text-blue-400">📧</a>
+          <a href="https://www.linkedin.com/in/abhinav-singh-18b84a291/" target="_blank" className="hover:text-blue-500">🔗</a>
+          <a href="https://github.com/singhAbhina" target="_blank" className="hover:text-gray-300">🐙</a>
+          <a href="https://www.linkedin.com/in/abhinav-singh-18b84a291/" target="_blank" className="hover:text-blue-300">🐦</a>
         </div>
       </div>
     </div>
