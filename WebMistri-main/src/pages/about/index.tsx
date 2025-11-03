@@ -82,7 +82,7 @@ export default function AboutPage() {
         {/* Hero */}
         <div className="flex flex-col items-center mb-12 text-center">
           <h1 className="text-4xl md:text-5xl font-extrabold mb-6 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-            About WebsiteMistri
+            About DYNAMIC CURSOR
           </h1>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mb-8"></div>
           <p className="text-lg text-gray-300 max-w-3xl">
@@ -95,7 +95,7 @@ export default function AboutPage() {
           <div>
             <h2 className="text-2xl font-bold text-blue-400 mb-4">Our Mission</h2>
             <p className="text-gray-300 mb-6">
-              At WebsiteMistri, we're on a mission to democratize web development through AI.
+              At DYNAMIC CURSOR, we're on a mission to democratize web development through AI.
               Creating a website should be as easy as describing your vision — no code required.
             </p>
             <p className="text-gray-300">
@@ -116,7 +116,7 @@ export default function AboutPage() {
         <Card className="border-0 bg-gradient-to-b from-slate-900 to-slate-800 shadow-xl shadow-blue-900/30 mb-20">
           <CardHeader>
             <CardTitle className="text-xl font-bold text-white">Our Story</CardTitle>
-            <CardDescription className="text-gray-400">The journey behind WebsiteMistri</CardDescription>
+            <CardDescription className="text-gray-400">The journey behind DYNAMIC CURSOR</CardDescription>
           </CardHeader>
           <CardContent>
             <p className="text-gray-300 mb-4">
@@ -147,7 +147,7 @@ export default function AboutPage() {
             </CardHeader>
             <CardContent>
               <p className="text-gray-300">
-                Hi! I'm Harshit, a passionate developer from IIIT Manipur. WebsiteMistri is my brainchild —
+                Hi! I'm Abhinav Singh, a passionate developer from IIIT Manipur. DYNAMIC CURSOR is my brainchild —
                 blending AI with intuitive design to help everyone launch beautiful websites faster.
               </p>
             </CardContent>
